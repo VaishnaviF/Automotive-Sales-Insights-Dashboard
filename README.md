@@ -1,4 +1,5 @@
 🚗 Excited to share my latest project: Automotive Sales Insights Dashboard! 🚗
+
 I designed and developed this interactive Power BI dashboard to provide actionable insights into automotive sales performance, helping businesses track trends and optimize decision-making.
 
 💡 Key Features & Insights:
@@ -12,9 +13,11 @@ I designed and developed this interactive Power BI dashboard to provide actionab
 🔸 Geographical Insights: Mapped regional sales performance across the U.S. for deeper market understanding.
 
 🚀 Challenges & Solutions:
+
 Handling complex data relationships and ensuring smooth interactivity were key challenges, but leveraging Power BI’s data modeling and filter capabilities brought it all together.
 
 💼 Impact:
+
 This dashboard empowers automotive companies to monitor KPIs, identify trends, and make data-driven decisions to drive growth.
 
 # Automotive-Sales-Insights-Dashboard
