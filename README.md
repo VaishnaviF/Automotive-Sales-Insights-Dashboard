@@ -2,9 +2,13 @@
 I designed and developed this interactive Power BI dashboard to provide actionable insights into automotive sales performance, helping businesses track trends and optimize decision-making.
 
 💡 Key Features & Insights:
+
 🔸 YTD & MTD Performance: Track total sales, average prices, and units sold with real-time updates.
+
 🔸 Trend Analysis: Visualize weekly sales trends, sales by body style and color, and dealer-region performance with interactive filters.
+
 🔸 Advanced Data Modeling: Used DAX functions and custom visuals to create a user-friendly, interactive experience.
+
 🔸 Geographical Insights: Mapped regional sales performance across the U.S. for deeper market understanding.
 
 🚀 Challenges & Solutions:
